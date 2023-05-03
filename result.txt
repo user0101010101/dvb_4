@@ -1,0 +1,4 @@
+{"activity": "Learn Kotlin", "type": "education", "participants": 1, "price": 0, "link": "https://kotlinlang.org/", "key": "3950821", "accessibility": 0.8}
+{"activity": "Make a budget", "type": "busywork", "participants": 1, "price": 0, "link": "", "key": "4379552", "accessibility": 0.1}
+{"activity": "Go to an escape room", "type": "social", "participants": 4, "price": 0.5, "link": "", "key": "5585829", "accessibility": 0.3}
+{"activity": "Learn the periodic table", "type": "education", "participants": 1, "price": 0, "link": "https://en.wikipedia.org/wiki/Periodic_table", "key": "3621244", "accessibility": 0.6}
